@@ -70,3 +70,51 @@ IGP Administrative Weights
 
 <img src="https://raw.githubusercontent.com/JeanDiable/MyGallery/main/img/image-20230606172322829.png" alt="image-20230606172322829" style="zoom:50%;" />
 
+
+
+## Traffic Engineering - Part 2: Fast Re-Routing
+
+<img src="https://raw.githubusercontent.com/JeanDiable/MyGallery/main/img/image-20230607093620986.png" alt="image-20230607093620986" style="zoom: 33%;" />
+
+普通OSPF链路断了之后40s重新连上
+
+<img src="https://raw.githubusercontent.com/JeanDiable/MyGallery/main/img/image-20230607093810325.png" alt="image-20230607093810325" style="zoom:50%;" /><img src="https://raw.githubusercontent.com/JeanDiable/MyGallery/main/img/image-20230607093825081.png" alt="image-20230607093825081" style="zoom:50%;" />
+
+
+
+<img src="https://raw.githubusercontent.com/JeanDiable/MyGallery/main/img/image-20230607093914013.png" alt="image-20230607093914013" style="zoom:50%;" /><img src="https://raw.githubusercontent.com/JeanDiable/MyGallery/main/img/image-20230607100641280.png" alt="image-20230607100641280" style="zoom: 25%;" />
+
+<img src="https://raw.githubusercontent.com/JeanDiable/MyGallery/main/img/image-20230607100737492.png" alt="image-20230607100737492" style="zoom: 50%;" /><img src="https://raw.githubusercontent.com/JeanDiable/MyGallery/main/img/image-20230607100830767.png" alt="image-20230607100830767" style="zoom:50%;" />
+
+<img src="https://raw.githubusercontent.com/JeanDiable/MyGallery/main/img/image-20230607100854356.png" alt="image-20230607100854356" style="zoom:50%;" /><img src="https://raw.githubusercontent.com/JeanDiable/MyGallery/main/img/image-20230607100940019.png" alt="image-20230607100940019" style="zoom:50%;" />
+
+<img src="https://raw.githubusercontent.com/JeanDiable/MyGallery/main/img/image-20230607100956326.png" alt="image-20230607100956326" style="zoom:50%;" /><img src="https://raw.githubusercontent.com/JeanDiable/MyGallery/main/img/image-20230607101008230.png" alt="image-20230607101008230" style="zoom:50%;" />
+
+<img src="https://raw.githubusercontent.com/JeanDiable/MyGallery/main/img/image-20230607101040678.png" alt="image-20230607101040678" style="zoom:50%;" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

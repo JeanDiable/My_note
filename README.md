@@ -13,3 +13,5 @@ Including tricks of paper reading and writing
 ## CUDA
 
 The notes of "深蓝学院深度神经网络加速"
+
+## web3
